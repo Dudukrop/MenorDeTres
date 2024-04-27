@@ -1,0 +1,6 @@
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Menor_de_tres\Exercicio - Menor_de_tres\bin\Debug\Exercicio - Menor_de_tres.exe.config
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Menor_de_tres\Exercicio - Menor_de_tres\bin\Debug\Exercicio - Menor_de_tres.exe
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Menor_de_tres\Exercicio - Menor_de_tres\bin\Debug\Exercicio - Menor_de_tres.pdb
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Menor_de_tres\Exercicio - Menor_de_tres\obj\Debug\Exercicio - Menor_de_tres.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Menor_de_tres\Exercicio - Menor_de_tres\obj\Debug\Exercicio - Menor_de_tres.exe
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - Menor_de_tres\Exercicio - Menor_de_tres\obj\Debug\Exercicio - Menor_de_tres.pdb
